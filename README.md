@@ -5,10 +5,17 @@
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 React Hook 활용해보기</h2>  
   <h3 style="font-weight: 700; font-size: 15px; background-color: #7cc5fe;"> React Hook ? </h3> 
-    ![react hook](https://github.com/user-attachments/assets/249822cf-a111-4721-9569-276bc709b214)
-
-
+  <img src="https://github.com/user-attachments/assets/cf5126f4-101e-4260-8451-0df23a163f4c" width="400" />
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 React 페이지 기능</h2>  
+  <h3>TodoList 조회</h3>
+  <img src="https://github.com/user-attachments/assets/06c62cda-af7d-43aa-a443-6bfa00281400" width="400" />  
+  <h3>TodoList 검색</h3>
+  <img src="https://github.com/user-attachments/assets/8a6d0d60-4c63-47d9-be15-a9d7d38c875a" width="400" />  
+  <h3>TodoList 삭제</h3>
+  <img src="https://github.com/user-attachments/assets/121b57b9-14cf-4af9-b6a9-d7add4500b67" width="400" />  
+  
 </div>
+
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2><br> 
